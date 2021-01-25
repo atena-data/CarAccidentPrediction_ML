@@ -1,4 +1,4 @@
-# IBM Project Collision Prediction
+# *IBM Project:* Collision Prediction
 This project is a case study to predict the severity of an accident.
 A public data set is used to demonstrate Data Analysis and Machine Learning skills obtained in the IBM Data Science Program. Coursera has provided the data set which includes records of accidents and their severity level. 
 
